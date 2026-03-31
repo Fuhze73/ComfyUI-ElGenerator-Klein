@@ -1,14 +1,14 @@
-# ComfyUI-ElGenerator-Klein v2
+# ComfyUI-ElGenerator-Klein
 
 
 ![Alt text](https://github.com/Fuhze73/ComfyUI-ElGenerator-Klein/blob/main/image.webp)
 
-**El Generator Klein v2** — Character and scene editor for **FLUX.2 Klein 9B**  
+**El Generator Klein** — Character and scene editor for **FLUX.2 Klein 9B**  
 8 nodes · Natural prose · Photographic realism · Amateur / candid / casual focus
 
 ---
 
-## ⚡ What's New in v2
+## ⚡ What's in ElGenerator-Klein
 
 - **8 nodes** instead of 6 — Face and People are now separate nodes
 - **"none" everywhere by default** — nothing is forced, you compose what you want

@@ -1,5 +1,8 @@
 # ComfyUI-ElGenerator-Klein v2
 
+
+![Alt text]([https://example.com/path/to/image.png](https://github.com/Fuhze73/ComfyUI-ElGenerator-Klein/blob/main/image.webp)
+
 **El Generator Klein v2** — Éditeur de personnage et scène pour **FLUX.2 Klein 9B**  
 8 nodes · Prose naturelle · Réalisme photographique · Focus amateur / candid / casual
 

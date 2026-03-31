@@ -23,7 +23,7 @@
 ```bash
 cd ComfyUI/custom_nodes/
 # Copiez le dossier ou :
-git clone https://github.com/VOTRE_REPO/ComfyUI-ElGenerator-Klein.git
+git clone https://github.com/Fuhze73/ComfyUI-ElGenerator-Klein.git
 ```
 
 ---
